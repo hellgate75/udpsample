@@ -2,7 +2,7 @@
 
 Sample UDP client/echo server commands implementation
 
-* [server](/cmd/x/udpserver/main.go)
+* [echo server](/cmd/x/udpserver/main.go)
 
 * [client](/cmd/x/udpclient/main.go)
 
