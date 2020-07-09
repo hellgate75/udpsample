@@ -34,6 +34,22 @@ go install -buildmode=exe github.com/hellgate75/udpsample/cmd/x/udpclient
 ```
 
 
+## Commands usage
+
+Start the UDP Echo server :
+```
+udpserver <host|ip mask|ip address|empty>:<port>
+```
+
+Execute the UDP client :
+```
+udpclient <host|ip address>:<port> <message>
+```
+
+Note: ```exit``` command will cause the server stop and exit
+
+
+
 Enjoy the experience.
 
 
