@@ -21,6 +21,19 @@ go build -buildmode=exe github.com/hellgate75/udpsample/cmd/x/udpclient
 ```
 
 
+## Install the project
+
+Install server sample command :
+```
+go install -buildmode=exe github.com/hellgate75/udpsample/cmd/x/udpserver
+```
+
+Install client sample command :
+```
+go install -buildmode=exe github.com/hellgate75/udpsample/cmd/x/udpclient
+```
+
+
 Enjoy the experience.
 
 
